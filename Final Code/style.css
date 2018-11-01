@@ -1,0 +1,22 @@
+body {
+    text-align:  center;
+    background-color: blue;
+}
+
+h1 {
+	background-color: grey;
+	color: black;
+	margin: 40px;
+}
+
+button {
+	color: white;
+	background-color: black;
+}
+
+p {
+	color: black;
+	margin: 20px;
+	padding: 30px;
+	background-color: grey;
+}
